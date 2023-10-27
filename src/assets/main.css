@@ -1,4 +1,5 @@
 @import './base.css';
+@import url('./font_config.css');
 a,
 .green {
   text-decoration: none;

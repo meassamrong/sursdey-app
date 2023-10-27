@@ -8,7 +8,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-1"></div>
-        <div class="people-chat-panel col-4">
+        <div class="people-chat-panel col-3">
           <PoepleChatPanels />
         </div>
       </div>
